@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime que esta noche tú te vas conmigo
+> Rompiendo las calles, cruzando el destino
+> La luna nos mira de forma elegante
+> Yo solo nací pa' vivir para amarte
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
