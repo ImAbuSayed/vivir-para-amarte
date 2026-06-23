@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vivir para amarte
+
+This log tracks the cryptographic history and versioning for the song **Vivir para amarte** (vivir-para-amarte).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T12:23:47.407165 | `v1` | `e94a851d58baf8c7a9d23e78ce353f6f5dae384c7eac81562e708c81247c979a` | `17e365c05b4e90d441a988db8c9746097fe36c96ce00d0daefebc05fcad621ca` | `2026-06-23_vivir-para-amarte-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
